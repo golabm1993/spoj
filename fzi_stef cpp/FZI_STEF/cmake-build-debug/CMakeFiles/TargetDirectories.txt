@@ -1,0 +1,3 @@
+C:/Users/G/CLionProjects/FZI_STEF/cmake-build-debug/CMakeFiles/FZI_STEF.dir
+C:/Users/G/CLionProjects/FZI_STEF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/G/CLionProjects/FZI_STEF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
