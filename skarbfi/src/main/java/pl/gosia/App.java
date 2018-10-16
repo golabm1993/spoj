@@ -23,6 +23,10 @@ public class App {
             numberOfTips = scanner.nextInt();
             while (numberOfTips > 0) {
                 direction = scanner.nextInt();
+                if (direction == 0 || direction == 1)
+                    numberOfStepsY = scanner.nextInt();
+                if (direction == 2 || direction == 3)
+                    numberOfStepsX = scanner.nextInt();
                 findTreasure(wspX, wspY, direction, numberOfStepsY, numberOfStepsX);
                 numberOfTips--;
             }
